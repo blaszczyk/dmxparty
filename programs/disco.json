@@ -1,0 +1,12 @@
+[{
+	"palette": "rainbow",
+	"cycle": 9,
+	"usefft": true,
+	"fftphase": 0.2,
+	"fftpalette": "rainbow",
+	"strobo": false,
+	"stroborate": 0.2,
+	"strobothresh" : 0.9,
+	"strobocol": "uv",
+	"lamps": [11, 21, 31, 41, 51 ,61 ,71, 81] 
+}]

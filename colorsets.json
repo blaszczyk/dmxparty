@@ -1,0 +1,9 @@
+{
+	"rainbow": ["red", "orange", "yellow", "lime", "green", "cyan", "blue", "pink"],
+	"rainbowsh": ["orange", "yellow", "lime", "green", "cyan", "blue", "pink", "red"],
+	"redish": ["red", "orange", "red", "pink"],
+	"greenish": ["green", "lime", "green", "cyan"],
+	"blueish": ["blue", "cyan", "blue", "pink"],
+	"leo": ["blue", "pink", "blue", "pink", "blue", "pink"],
+	"jamaica": ["yellow", "red", "yellow", "lime"]
+}
